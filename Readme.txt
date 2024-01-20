@@ -1,3 +1,1 @@
-Ayush{
-i am Ayush
-}
+Ayush
